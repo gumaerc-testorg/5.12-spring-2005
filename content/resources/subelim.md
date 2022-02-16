@@ -4,8 +4,13 @@ description: 'This resource includes the following topics:
 
   Substitution Reactions, Elimination Reactions, Generic Reaction-Energy Diagrams,
   and Predicting the Products: Substitution versus Elimination.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-12-organic-chemistry-i-spring-2005/864a502e7a69a6b5b737b8322ae23ac4_subelim.pdf
+file: /media/courses/5-12-organic-chemistry-i-spring-2005/864a502e7a69a6b5b737b8322ae23ac4_subelim.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Handouts
+parent_type: CourseSection
 resourcetype: Document
 title: subelim.pdf
 uid: 864a502e-7a69-a6b5-b737-b8322ae23ac4

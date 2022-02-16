@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-12-organic-chemistry-i-spring-2005/13db564da97a467d0e08a0f14660310f_lecture16_s05.pdf
+file: /media/courses/5-12-organic-chemistry-i-spring-2005/13db564da97a467d0e08a0f14660310f_lecture16_s05.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Handouts
+parent_type: CourseSection
 resourcetype: Document
 title: lecture16_s05.pdf
 uid: 13db564d-a97a-467d-0e08-a0f14660310f
