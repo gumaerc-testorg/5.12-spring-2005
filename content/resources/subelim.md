@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Handouts
 parent_type: CourseSection
+parent_uid: 94b63c29-d687-c5ae-461c-eb0cbd05661c
 resourcetype: Document
 title: subelim.pdf
 uid: 864a502e-7a69-a6b5-b737-b8322ae23ac4

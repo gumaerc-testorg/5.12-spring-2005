@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Handouts
 parent_type: CourseSection
+parent_uid: 94b63c29-d687-c5ae-461c-eb0cbd05661c
 resourcetype: Document
 title: lecture03_s05.pdf
 uid: 7c424727-deee-608b-bdfe-e09a83824a02

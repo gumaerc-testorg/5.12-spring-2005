@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Handouts
 parent_type: CourseSection
+parent_uid: 94b63c29-d687-c5ae-461c-eb0cbd05661c
 resourcetype: Document
 title: alkenerxn_summar.pdf
 uid: 9d2b9886-87a2-41d8-aeac-99b12d065160

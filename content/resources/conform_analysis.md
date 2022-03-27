@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Handouts
 parent_type: CourseSection
+parent_uid: 94b63c29-d687-c5ae-461c-eb0cbd05661c
 resourcetype: Document
 title: conform_analysis.pdf
 uid: fb2906c6-8da8-fd8b-86fa-369ae98ca5a7

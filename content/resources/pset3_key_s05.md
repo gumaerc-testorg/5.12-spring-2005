@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 84c1185e-8667-6c88-60c0-ea6fd0cc32df
 resourcetype: Document
 title: pset3_key_s05.pdf
 uid: f5b7e3a5-f3ea-99a6-c401-234b3c1c4144
