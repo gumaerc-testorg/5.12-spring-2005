@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Syllabus section contians course objectives, molecular models, recitation,
+  exams, regrade policy, problem sets, final grades, and study tips.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

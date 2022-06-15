@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Lecture handouts section contains handouts for topics covered in the
+  course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -51,9 +53,9 @@ Dr. Kimberly Berkowski
 {{< tdopen >}}
 
 
-([PDF 1]({{< baseurl >}}/resources/lecture01_s05))
+({{% resource_link 63a694f9-5180-fdd0-cff4-ff6fe0d43719 "PDF 1" %}})
 
-([PDF 2]({{< baseurl >}}/resources/functional_groups))
+({{% resource_link ff42c8ce-ea47-d682-1be8-0cdfd2da3759 "PDF 2" %}})
 
 
 {{< tdclose >}}
@@ -84,13 +86,13 @@ Dr. Kimberly Berkowski
 {{< tdopen >}}
 
 
-([PDF 1]({{< baseurl >}}/resources/lecture02_s05))
+({{% resource_link 60b12469-c48a-b3fc-4e0c-c9da0c170de8 "PDF 1" %}})
 
-([PDF 2]({{< baseurl >}}/resources/pka))
+({{% resource_link 7f75e0e3-a603-f8f6-2039-8fa376cb5964 "PDF 2" %}})
 
-([PDF 3]({{< baseurl >}}/resources/specific_pka))
+({{% resource_link 1fd03594-3940-4fe5-1223-94ec3f7eb89d "PDF 3" %}})
 
-([PDF 4]({{< baseurl >}}/resources/lecture02b_s05))
+({{% resource_link 4e257648-b036-fa28-fb64-d9a6684c4d95 "PDF 4" %}})
 
 
 {{< tdclose >}}
@@ -121,7 +123,7 @@ Dr. Kimberly Berkowski
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/lecture03_s05))
+({{% resource_link 7c424727-deee-608b-bdfe-e09a83824a02 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -152,7 +154,7 @@ Dr. Kimberly Berkowski
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/conform_analysis))
+({{% resource_link fb2906c6-8da8-fd8b-86fa-369ae98ca5a7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -183,7 +185,7 @@ Dr. Kimberly Berkowski
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/lecture05_s05))
+({{% resource_link 2b48ccdf-1312-1e7a-f073-a38a347152d6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -214,7 +216,7 @@ Dr. Kimberly Berkowski
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/lecture06_s05))
+({{% resource_link 1b033cea-0c38-b1da-74a9-4e50cdff88a5 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -272,7 +274,7 @@ Dr. Kimberly Berkowski
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/lecture08_s05))
+({{% resource_link 38f352c2-c38e-842e-2d01-1341a8232afb "PDF" %}})
 
 
 {{< tdclose >}}
@@ -330,7 +332,7 @@ Dr. Kimberly Berkowski
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/lecture10_s05))
+({{% resource_link 4771332c-8d38-4057-9f64-274e3c6dda5c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -388,7 +390,7 @@ Dr. Kimberly Berkowski
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/lecture12_s05))
+({{% resource_link 90b62192-eafa-d4cb-77aa-8af49b884ab8 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -473,7 +475,7 @@ Dr. Kimberly Berkowski
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/lecture15_s05))
+({{% resource_link a4aa6fe1-9874-0aee-a4f8-fb64ab5d566f "PDF" %}})
 
 Chanteau, Stephanie H., and James M. Tour. "Synthesis of Anthropomorphic Molecules." _J Org Chem_ 68 (2003): 8750-8766.
 
@@ -506,7 +508,7 @@ Dr. Kimberly Berkowski
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/lecture16_s05))
+({{% resource_link 13db564d-a97a-467d-0e08-a0f14660310f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -591,7 +593,7 @@ Prof. Sarah O'Connor
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/organometal))
+({{% resource_link fd8fcae1-a723-5ede-a322-1e5a9a426334 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -622,7 +624,7 @@ Prof. Sarah O'Connor
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/sn2sn1))
+({{% resource_link 00eacc1b-ea04-5984-4e3e-0da6a1bc4d7c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -680,7 +682,7 @@ Prof. Sarah O'Connor
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/subelim))
+({{% resource_link 864a502e-7a69-a6b5-b737-b8322ae23ac4 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -711,7 +713,7 @@ Prof. Sarah O'Connor
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/aromaticity))
+({{% resource_link 32c24933-d177-6aea-11d8-7361ebb8d75b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -769,9 +771,9 @@ Prof. Sarah O'Connor
 {{< tdopen >}}
 
 
-([PDF 1]({{< baseurl >}}/resources/eas))
+({{% resource_link b3e1cb45-ad28-f0b0-09fb-b11743eb2ca6 "PDF 1" %}})
 
-([PDF 2]({{< baseurl >}}/resources/friedelcraftsnot))
+({{% resource_link 64e9eb97-7b89-6b77-f8a2-32288801035d "PDF 2" %}})
 
 
 {{< tdclose >}}
@@ -883,7 +885,7 @@ Prof. Sarah O'Connor
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/alcohols))
+({{% resource_link 33ac4fc0-2044-e866-45a3-d1c3e08a216a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -914,9 +916,9 @@ Prof. Sarah O'Connor
 {{< tdopen >}}
 
 
-([PDF 1]({{< baseurl >}}/resources/carbonyl1))
+({{% resource_link e9f507ec-7540-4284-50ec-a35352bc3ed6 "PDF 1" %}})
 
-([PDF 2]({{< baseurl >}}/resources/oxidation))
+({{% resource_link c943ff4f-c5e7-1839-20e7-c717d5baf82a "PDF 2" %}})
 
 
 {{< tdclose >}}
@@ -947,7 +949,7 @@ Prof. Sarah O'Connor
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/carbonylchapters))
+({{% resource_link 5aa509ee-cff5-389a-d41d-1113f47056a2 "PDF" %}})
 
 
 {{< tdclose >}}
