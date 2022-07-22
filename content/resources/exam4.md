@@ -5,6 +5,7 @@ file: /courses/5-12-organic-chemistry-i-spring-2005/a9c1fc93463d1a01373967aeb345
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exam4.pdf
 uid: a9c1fc93-463d-1a01-3739-67aeb34543bd
 ---
 This resource contains 10 questions based on synthesis.
-

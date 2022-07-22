@@ -9,6 +9,7 @@ file: /courses/5-12-organic-chemistry-i-spring-2005/33ac4fc02044e86645a3d1c3e08a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Handouts
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: 33ac4fc0-2044-e866-45a3-d1c3e08a216a
 ---
 This resource includes the following topics:
 Table of Ka Values, Methods of synthesis of alcohols, Alcohols, carbonyl compounds and carboxylic acids: reduction, and Alcohols, carbonyl compounds and carboxylic acids: oxidation.
-

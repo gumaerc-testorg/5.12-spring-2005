@@ -5,6 +5,7 @@ file: /courses/5-12-organic-chemistry-i-spring-2005/2b48ccdf13121e7af073a38a3471
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Handouts
 parent_type: CourseSection

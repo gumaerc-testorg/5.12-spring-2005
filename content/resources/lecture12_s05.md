@@ -8,6 +8,7 @@ file: /courses/5-12-organic-chemistry-i-spring-2005/90b62192eafad4cb77aa8af49b88
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Handouts
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 90b62192-eafa-d4cb-77aa-8af49b884ab8
 ---
 This resource includes the following topics:
 Finish Addition of H-X to an Alkene, Ethers, Alkanes, Epoxides, Cycopropane, and Ketones, Aldehyes, Carboxylic Acids.
-

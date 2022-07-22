@@ -6,6 +6,7 @@ file: /courses/5-12-organic-chemistry-i-spring-2005/b3d29d950c5145415d5472fe3523
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps7.pdf
 uid: b3d29d95-0c51-4541-5d54-72fe35233af4
 ---
 This resource contains 10 problems based on the mechanism of reaction and providing the major product.
-

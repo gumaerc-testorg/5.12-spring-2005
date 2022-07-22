@@ -6,6 +6,7 @@ file: /courses/5-12-organic-chemistry-i-spring-2005/2507ec4ea73275a6ce70c2b6e6f8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pset2_s05.pdf
 uid: 2507ec4e-a732-75a6-ce70-c2b6e6f8ae71
 ---
 This resource contains 13 problems based on enantiomers and diastereomers of molecules.
-

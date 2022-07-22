@@ -7,6 +7,7 @@ file: /courses/5-12-organic-chemistry-i-spring-2005/26baea43b25a780aad5e185ba0af
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Handouts
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 26baea43-b25a-780a-ad5e-185ba0af393c
 ---
 This resource includes the following topics:
 Structure, Nomenclature, Reactions, and Retrosynthetic Analysis.
-

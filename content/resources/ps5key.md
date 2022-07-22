@@ -6,6 +6,7 @@ file: /courses/5-12-organic-chemistry-i-spring-2005/f85f61017b4796d80901a563e22a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps5key.pdf
 uid: f85f6101-7b47-96d8-0901-a563e22af0b5
 ---
 This resource contains the solutions of 9 problems asked in problem set 5.
-

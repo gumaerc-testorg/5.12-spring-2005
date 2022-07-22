@@ -7,6 +7,7 @@ file: /courses/5-12-organic-chemistry-i-spring-2005/64e9eb977b896b77f8a232288801
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Handouts
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: 64e9eb97-7b89-6b77-f8a2-32288801035d
 ---
 This resource includes the following topics:
 Alkylation, Acylation, Comparison of Acylation vs. Alkylation, and Synthesis Examples.
-

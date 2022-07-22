@@ -5,6 +5,7 @@ file: /courses/5-12-organic-chemistry-i-spring-2005/e9f507ec7540428450eca35352bc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Handouts
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: carbonyl1.pdf
 uid: e9f507ec-7540-4284-50ec-a35352bc3ed6
 ---
 This resource incldues a discussion on Types of Carbonyl Compounds.
-

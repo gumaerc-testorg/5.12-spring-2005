@@ -5,6 +5,7 @@ file: /courses/5-12-organic-chemistry-i-spring-2005/e0976c25416dda2caeb8621085a9
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exam4key.pdf
 uid: e0976c25-416d-da2c-aeb8-621085a9ffde
 ---
 This resource contains solutions of 12 questions asked in exam 4.
-
