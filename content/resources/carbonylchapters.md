@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes a discussion on carbonyl chapters.
 file: /courses/5-12-organic-chemistry-i-spring-2005/5aa509eecff5389ad41d1113f47056a2_carbonylchapters.pdf
+file_size: 45196
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
