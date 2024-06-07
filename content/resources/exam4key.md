@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions of 12 questions asked in exam 4.
 file: /courses/5-12-organic-chemistry-i-spring-2005/e0976c25416dda2caeb8621085a9ffde_exam4key.pdf
+file_size: 183208
 file_type: application/pdf
 learning_resource_types:
 - Exams

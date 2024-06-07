@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource incldues the properties of Functional Groups.
 file: /courses/5-12-organic-chemistry-i-spring-2005/ff42c8ceea47d6821be80cdfd2da3759_functional_groups.pdf
+file_size: 129786
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

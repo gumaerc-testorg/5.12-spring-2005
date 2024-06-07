@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource incldues a discussion on Types of Carbonyl Compounds.
 file: /courses/5-12-organic-chemistry-i-spring-2005/e9f507ec7540428450eca35352bc3ed6_carbonyl1.pdf
+file_size: 732862
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
