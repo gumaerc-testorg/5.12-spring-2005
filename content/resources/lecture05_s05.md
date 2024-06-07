@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-12-organic-chemistry-i-spring-2005/2b48ccdf13121e7af073a38a347152d6_lecture05_s05.pdf
+file_size: 326057
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
