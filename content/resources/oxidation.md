@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource explains the Chromium Oxidation of Alcohols and Aldehydes.
-file: /courses/5-12-organic-chemistry-i-spring-2005/c943ff4fc5e7183920e7c717d5baf82a_oxidation.pdf
+file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2005/c943ff4fc5e7183920e7c717d5baf82a_oxidation.pdf
 file_size: 60316
 file_type: application/pdf
 learning_resource_types:

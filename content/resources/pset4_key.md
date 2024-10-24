@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the solutions of 10 problems asked in problem
   set 4.
-file: /courses/5-12-organic-chemistry-i-spring-2005/4e450ea8a9aa3d212ab6c0fe98d0b064_pset4_key.pdf
+file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2005/4e450ea8a9aa3d212ab6c0fe98d0b064_pset4_key.pdf
 file_size: 141743
 file_type: application/pdf
 learning_resource_types:
