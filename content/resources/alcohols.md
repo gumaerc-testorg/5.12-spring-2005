@@ -5,7 +5,7 @@ description: 'This resource includes the following topics:
   Table of Ka Values, Methods of synthesis of alcohols, Alcohols, carbonyl compounds
   and carboxylic acids: reduction, and Alcohols, carbonyl compounds and carboxylic
   acids: oxidation.'
-file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2005/33ac4fc02044e86645a3d1c3e08a216a_alcohols.pdf
+file: /courses/5-12-organic-chemistry-i-spring-2005/33ac4fc02044e86645a3d1c3e08a216a_alcohols.pdf
 file_size: 369062
 file_type: application/pdf
 learning_resource_types:
