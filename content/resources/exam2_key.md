@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions of 12 questions asked in exam 2.
-file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2005/5216cbec86c699967cb44c5acf49a599_exam2_key.pdf
+file: /courses/5-12-organic-chemistry-i-spring-2005/5216cbec86c699967cb44c5acf49a599_exam2_key.pdf
 file_size: 157815
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource includes the folowing topics:
 
   Properties, Reactivity, Uses, Structure and Isomerism, Nomenclature, and Stereochemistry.'
-file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2005/7c424727deee608bbdfee09a83824a02_lecture03_s05.pdf
+file: /courses/5-12-organic-chemistry-i-spring-2005/7c424727deee608bbdfee09a83824a02_lecture03_s05.pdf
 file_size: 559763
 file_type: application/pdf
 learning_resource_types:

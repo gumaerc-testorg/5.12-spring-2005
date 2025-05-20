@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes the practice problems.
-file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2005/00eacc1bea0459844e3e0da6a1bc4d7c_sn2sn1.pdf
+file: /courses/5-12-organic-chemistry-i-spring-2005/00eacc1bea0459844e3e0da6a1bc4d7c_sn2sn1.pdf
 file_size: 33466
 file_type: application/pdf
 learning_resource_types:

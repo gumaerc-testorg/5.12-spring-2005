@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 10 questions based on synthesis.
-file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2005/a9c1fc93463d1a01373967aeb34543bd_exam4.pdf
+file: /courses/5-12-organic-chemistry-i-spring-2005/a9c1fc93463d1a01373967aeb34543bd_exam4.pdf
 file_size: 171057
 file_type: application/pdf
 learning_resource_types:

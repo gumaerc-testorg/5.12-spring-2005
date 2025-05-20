@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource includes the following topics:
 
   Structure, Nomenclature, Reactions, and Retrosynthetic Analysis.'
-file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2005/26baea43b25a780aad5e185ba0af393c_alkynes.pdf
+file: /courses/5-12-organic-chemistry-i-spring-2005/26baea43b25a780aad5e185ba0af393c_alkynes.pdf
 file_size: 247865
 file_type: application/pdf
 learning_resource_types:
