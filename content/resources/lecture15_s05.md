@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2005/a4aa6fe198740aeea4f8fb64ab5d566f_lecture15_s05.pdf
+file: /courses/5-12-organic-chemistry-i-spring-2005/a4aa6fe198740aeea4f8fb64ab5d566f_lecture15_s05.pdf
 file_size: 125657
 file_type: application/pdf
 learning_resource_types:
