@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 10 problems based on reaction mechanism.
-file: /courses/5-12-organic-chemistry-i-spring-2005/952feb386fa701f3e2a271a7055b61f3_pset3_s05.pdf
+file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2005/952feb386fa701f3e2a271a7055b61f3_pset3_s05.pdf
 file_size: 269030
 file_type: application/pdf
 learning_resource_types:
