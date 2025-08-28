@@ -4,7 +4,7 @@ description: 'This resource includes the following topics:
 
   Introduction and Nomenclature, Stabilityof Aromatic Compounds/Huckel?s Rule, Aromatic
   Ions, Aromatic Heterocycles, and Polycyclic Aromatic Compounds.'
-file: /courses/5-12-organic-chemistry-i-spring-2005/32c24933d1776aea11d87361ebb8d75b_aromaticity.pdf
+file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2005/32c24933d1776aea11d87361ebb8d75b_aromaticity.pdf
 file_size: 694471
 file_type: application/pdf
 learning_resource_types:

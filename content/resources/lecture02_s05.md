@@ -5,7 +5,7 @@ description: 'This resource includes the following topics:
   Carbon, Main atoms, Electron configurations, Possible bonding patterns, Representing
   molecules, Curved arrow notation, and Predict relative energies of resonance contributors
   from structure.'
-file: /courses/5-12-organic-chemistry-i-spring-2005/60b12469c48ab3fc4e0cc9da0c170de8_lecture02_s05.pdf
+file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2005/60b12469c48ab3fc4e0cc9da0c170de8_lecture02_s05.pdf
 file_size: 793329
 file_type: application/pdf
 learning_resource_types:

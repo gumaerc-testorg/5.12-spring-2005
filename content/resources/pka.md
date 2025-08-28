@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes the properties of organic molecuiles.
-file: /courses/5-12-organic-chemistry-i-spring-2005/7f75e0e3a603f8f620398fa376cb5964_pka.pdf
+file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2005/7f75e0e3a603f8f620398fa376cb5964_pka.pdf
 file_size: 59476
 file_type: application/pdf
 learning_resource_types:

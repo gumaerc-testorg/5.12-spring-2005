@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource incldues the pKa and molecular structure of various compunds.
-file: /courses/5-12-organic-chemistry-i-spring-2005/1fd0359439404fe5122394ec3f7eb89d_specific_pKa.pdf
+file: /ol-ocw-studio-app/courses/5-12-organic-chemistry-i-spring-2005/1fd0359439404fe5122394ec3f7eb89d_specific_pKa.pdf
 file_size: 124460
 file_type: application/pdf
 learning_resource_types:
